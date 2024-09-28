@@ -34,6 +34,6 @@ Liste des commandes git
 - Permet de récupérer les modifications distantes
 
 ## git rebase
-- Permet de récupérer les modifications dans la branche mere
-- Les modifications de la branche mere sont placées en dessous des modifications de la branche courante
+- Permet de récupérer les modifications de la branche mere
+- Les modifications de la branche mere sont placées en dessous de la modification de la branche courante
 - Les modifications de la branche courante sont placées au dessus des modifications de la branche mere
